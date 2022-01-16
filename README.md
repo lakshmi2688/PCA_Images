@@ -1,8 +1,15 @@
 # PCA_Images
 
-<h3>We cover the following techniques for implementing PCA</h3>
-<ul>
-    <li>Using Eigen decomposition </li>
-    <li>Using scikit-learn</li>
-    <li>Using Power Iteration algorithmn</li>
-</ul>
+<h3>Abstract </h3>
+The goal of this analysis is to implement PCA using Eigen Decomposition, Scikit Learn and Power Interation Algorithms and understand the steps, and assumptions of the technique.
+
+<h3>Repository structure</h3>
+
+```
+├── README.md
+├── LICENSE
+├── assets
+│   └── pictures
+└── src
+    ├── PCA_Images.ipynb
+```
